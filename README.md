@@ -50,7 +50,7 @@ Ever since sureness was born, we hope to solve these, provide a **REST API**, **
 
 ##### 📈 Benchmark  
 
-![benchmark](docs/_images/benchmark_en.png)  
+![benchmark](media/benchmark_en.png)  
 
 **Benchmark test shows sureness to lose 0.026ms performance compared to frameless application, shiro lose 0.088ms, spring security lose 0.116ms.**    
 **In contrast, sureness basically does not consume performance, and the performance (TPS loss) is 3 times that of shiro and 4 times that of spring security.**      
